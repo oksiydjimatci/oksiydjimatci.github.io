@@ -3,17 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://oksiydjimatci.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://oksiydjimatci.github.io/about/</loc>
+    <lastmod>2019-05-04T23:15:13+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://oksiydjimatci.github.io/</loc>
+    <lastmod>2019-05-04T23:15:13+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oksiydjimatci.github.io/posts/2019/05/04/first-post/</loc>
+    <lastmod>2019-05-04T23:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oksiydjimatci.github.io/posts/</loc>
+    <lastmod>2019-05-04T23:07:08+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://oksiydjimatci.github.io/tags/</loc>
+    <lastmod>2019-05-04T23:07:08+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oksiydjimatci.github.io/tags/untagged/</loc>
+    <lastmod>2019-05-04T23:07:08+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oksiydjimatci.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
